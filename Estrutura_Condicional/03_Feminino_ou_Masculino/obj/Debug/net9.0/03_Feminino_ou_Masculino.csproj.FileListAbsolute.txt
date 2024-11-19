@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\bin\Debug\net9.0\03_Feminino_ou_Masculino.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\bin\Debug\net9.0\03_Feminino_ou_Masculino.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\bin\Debug\net9.0\03_Feminino_ou_Masculino.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\bin\Debug\net9.0\03_Feminino_ou_Masculino.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\bin\Debug\net9.0\03_Feminino_ou_Masculino.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\refint\03_Feminino_ou_Masculino.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\03_Feminino_ou_Masculino.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\03_Feminino_ou_Masculino\obj\Debug\net9.0\ref\03_Feminino_ou_Masculino.dll

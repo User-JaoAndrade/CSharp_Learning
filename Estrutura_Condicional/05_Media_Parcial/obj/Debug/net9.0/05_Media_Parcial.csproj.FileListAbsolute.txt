@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\bin\Debug\net9.0\05_Media_Parcial.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\bin\Debug\net9.0\05_Media_Parcial.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\bin\Debug\net9.0\05_Media_Parcial.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\bin\Debug\net9.0\05_Media_Parcial.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\bin\Debug\net9.0\05_Media_Parcial.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\refint\05_Media_Parcial.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\05_Media_Parcial.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\05_Media_Parcial\obj\Debug\net9.0\ref\05_Media_Parcial.dll

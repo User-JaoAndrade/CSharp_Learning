@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\bin\Debug\net9.0\04_VogalOuConsoante.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\bin\Debug\net9.0\04_VogalOuConsoante.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\bin\Debug\net9.0\04_VogalOuConsoante.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\bin\Debug\net9.0\04_VogalOuConsoante.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\bin\Debug\net9.0\04_VogalOuConsoante.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\refint\04_VogalOuConsoante.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\04_VogalOuConsoante.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\04_VogalOuConsoante\obj\Debug\net9.0\ref\04_VogalOuConsoante.dll

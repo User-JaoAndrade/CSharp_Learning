@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\bin\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\bin\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\bin\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\bin\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\bin\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\refint\01_MaiorNumeroEntreDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\01_MaiorNumeroEntreDoisNumeros.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\01_MaiorNumeroEntreDoisNumeros\obj\Debug\net9.0\ref\01_MaiorNumeroEntreDoisNumeros.dll

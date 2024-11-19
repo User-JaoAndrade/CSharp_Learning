@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\bin\Debug\net9.0\02_Numero_Positivo_ou_Negativo.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\bin\Debug\net9.0\02_Numero_Positivo_ou_Negativo.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\bin\Debug\net9.0\02_Numero_Positivo_ou_Negativo.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\bin\Debug\net9.0\02_Numero_Positivo_ou_Negativo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\bin\Debug\net9.0\02_Numero_Positivo_ou_Negativo.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\refint\02_Numero_Positivo_ou_Negativo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\02_Numero_Positivo_ou_Negativo.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Condicional\02_Numero_Positivo_ou_Negativo\obj\Debug\net9.0\ref\02_Numero_Positivo_ou_Negativo.dll
