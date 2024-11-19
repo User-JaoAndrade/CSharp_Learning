@@ -1,0 +1,14 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\bin\Debug\net9.0\05_Convertendo_Metros_para_centimetros.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\bin\Debug\net9.0\05_Convertendo_Metros_para_centimetros.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\bin\Debug\net9.0\05_Convertendo_Metros_para_centimetros.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\bin\Debug\net9.0\05_Convertendo_Metros_para_centimetros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\bin\Debug\net9.0\05_Convertendo_Metros_para_centimetros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\refint\05_Convertendo_Metros_para_centimetros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\05_Convertendo_Metros_para_centimetros.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\05_Convertendo_Metros_para_centimetros\obj\Debug\net9.0\ref\05_Convertendo_Metros_para_centimetros.dll

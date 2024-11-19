@@ -1,0 +1,14 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\bin\Debug\net9.0\06_Area_de_um_circulo.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\bin\Debug\net9.0\06_Area_de_um_circulo.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\bin\Debug\net9.0\06_Area_de_um_circulo.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\bin\Debug\net9.0\06_Area_de_um_circulo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\bin\Debug\net9.0\06_Area_de_um_circulo.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\refint\06_Area_de_um_circulo.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\06_Area_de_um_circulo.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\06_Area_de_um_circulo\obj\Debug\net9.0\ref\06_Area_de_um_circulo.dll

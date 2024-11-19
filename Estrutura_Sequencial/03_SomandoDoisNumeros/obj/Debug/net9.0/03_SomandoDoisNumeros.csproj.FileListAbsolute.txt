@@ -1,0 +1,14 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\bin\Debug\net9.0\03_SomandoDoisNumeros.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\bin\Debug\net9.0\03_SomandoDoisNumeros.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\bin\Debug\net9.0\03_SomandoDoisNumeros.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\bin\Debug\net9.0\03_SomandoDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\bin\Debug\net9.0\03_SomandoDoisNumeros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\refint\03_SomandoDoisNumeros.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\03_SomandoDoisNumeros.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\03_SomandoDoisNumeros\obj\Debug\net9.0\ref\03_SomandoDoisNumeros.dll

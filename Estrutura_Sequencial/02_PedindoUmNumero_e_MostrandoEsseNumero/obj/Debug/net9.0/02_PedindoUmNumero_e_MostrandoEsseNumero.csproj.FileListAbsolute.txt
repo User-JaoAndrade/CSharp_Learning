@@ -1,0 +1,14 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\bin\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\bin\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\bin\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\bin\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\bin\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\refint\02_PedindoUmNumero_e_MostrandoEsseNumero.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\02_PedindoUmNumero_e_MostrandoEsseNumero.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\02_PedindoUmNumero_e_MostrandoEsseNumero\obj\Debug\net9.0\ref\02_PedindoUmNumero_e_MostrandoEsseNumero.dll

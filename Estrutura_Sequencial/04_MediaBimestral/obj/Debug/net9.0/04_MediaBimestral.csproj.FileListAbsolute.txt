@@ -1,0 +1,14 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\bin\Debug\net9.0\04_MediaBimestral.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\bin\Debug\net9.0\04_MediaBimestral.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\bin\Debug\net9.0\04_MediaBimestral.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\bin\Debug\net9.0\04_MediaBimestral.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\bin\Debug\net9.0\04_MediaBimestral.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\refint\04_MediaBimestral.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\04_MediaBimestral.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\04_MediaBimestral\obj\Debug\net9.0\ref\04_MediaBimestral.dll
