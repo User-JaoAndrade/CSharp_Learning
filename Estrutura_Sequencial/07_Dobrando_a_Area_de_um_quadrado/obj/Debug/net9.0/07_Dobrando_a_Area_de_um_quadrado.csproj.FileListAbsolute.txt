@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\bin\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\bin\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\bin\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\bin\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\bin\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\refint\07_Dobrando_a_Area_de_um_quadrado.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\07_Dobrando_a_Area_de_um_quadrado.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\07_Dobrando_a_Area_de_um_quadrado\obj\Debug\net9.0\ref\07_Dobrando_a_Area_de_um_quadrado.dll
