@@ -1,0 +1,15 @@
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\bin\Debug\net9.0\08_CalculandoSalario.exe
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\bin\Debug\net9.0\08_CalculandoSalario.deps.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\bin\Debug\net9.0\08_CalculandoSalario.runtimeconfig.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\bin\Debug\net9.0\08_CalculandoSalario.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\bin\Debug\net9.0\08_CalculandoSalario.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.AssemblyInfoInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.AssemblyInfo.cs
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.sourcelink.json
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\refint\08_CalculandoSalario.dll
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.pdb
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\08_CalculandoSalario.genruntimeconfig.cache
+C:\Users\Not_Vitaminado\Desktop\C#\Estrutura_Sequencial\08_CalculandoSalario\obj\Debug\net9.0\ref\08_CalculandoSalario.dll
